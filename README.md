@@ -1,5 +1,5 @@
 # InvestigateADataset
-This project analyses the IMDB dataset focusing on how different film genres perform. Wrangled, cleaned and explored the data. multiple genre classes for one film it is difficult to predict how it will perform based on genre only However, the observations made can show how a film is likely to perform but is not a certainty.Below are the questions asked and the results obtained from exploratory analysis:
+This project analyses the IMDB dataset focusing on how different film genres perform. There are multiple genre classes for one film so it is difficult to predict how it will perform based on genre alone. However, the observations made can show how a film is likely to perform but is not a certainty. Below are the questions asked and the results obtained from exploratory analysis:
 
 ### What are the most common and most profitable film genres released in recent years?
 The most common genres are: Drama, comedy, thriller, action and romance.
